@@ -3,7 +3,6 @@
 	<name>eventEAR</name>
 	<comment></comment>
 	<projects>
-		<project>eventplanner</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
